@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666442372 source:c:\users\pc\desktop\6-float, double, long double\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1666442963 source:c:\users\pc\desktop\visual studio\6-float, double, long double\main.c
+	<stdio.h>
+	<stdlib.h>
+
