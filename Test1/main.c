@@ -3,16 +3,16 @@
 
 int main()
 {
-    unsigned int numberone = 3;
+    unsigned int NumberOne = 2;
     unsigned int NumberTwo = 2;
 
-    printf("Result = %i \n", (numberone == NumberTwo));
+    printf("Result = %i \n", (NumberOne == NumberTwo));
 
-    if(numberone == NumberTwo){
+    if(NumberOne == NumberTwo){
         printf("Yes \n");
     }
 
-    if(numberone = NumberTwo){
+    if(NumberOne = NumberTwo){
         printf("Yes -- \n");
     }
 
